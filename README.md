@@ -1,8 +1,15 @@
-# Crime Investigation SQL Script
+# SQL_Murder_Mystery
 
-## Description
+#### Link to Challenge
 
-This SQL script performs a series of queries to extract information from various tables related to a crime investigation. It retrieves data from tables such as `Crime_scene_report`, `person`, `interview`, `get_fit_now_member`, `drivers_license`, and `facebook_event_checkin` to gather evidence and identify suspects involved in the crime.
+https://mystery.knightlab.com/
+
+#### SQL Techniques Used
+
+- Table Joins
+- Where Clause
+- Order By
+- Limit
 
 ## Steps
 
