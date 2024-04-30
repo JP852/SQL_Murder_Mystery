@@ -3,11 +3,11 @@
 ![image](https://github.com/JP852/SQL_Murder_Mystery/assets/142391590/67675b5e-7ffa-4bd4-8a3d-4b10b95f47b7)
 
 
-#### Link to Challenge
+## Link to Challenge
 
 https://mystery.knightlab.com/
 
-#### SQL Techniques Used
+## SQL Techniques Used
 
 - Table Joins
 - Where Clause
