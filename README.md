@@ -25,8 +25,9 @@ SELECT
 ```
 ### Step 2: Finding the Witness Statements
 
+Finding the first witness
+
 ```
---finding the first witness
 
 SELECT 
     * FROM person
@@ -34,8 +35,12 @@ SELECT
             ORDER BY address_number desc
                 LIMIT 1
 
---finding the second witness
- 
+```
+
+Finding the second witness
+
+```
+
 SELECT 
     * FROM person
         WHERE address_street_name = 'Franklin Ave'
@@ -44,14 +49,19 @@ SELECT
 ```
 ### Step 3: Finding the Interviews
 
+Witness 14887
+
 ```
---witness 14887
  
 SELECT 
     * FROM interview
         WHERE person_id = 14887
 
---witness 16371
+```
+
+Witness 16371
+
+```
  
 SELECT 
     * 
